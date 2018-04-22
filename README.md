@@ -9,7 +9,7 @@ This project utilizes input and output files in python. The Match.py application
 Using terminal on Mac,
 
 ```
-$ cd Merge/Match-Using-Files
+$ cd Merge-Match-Using-Files
 $ python ./Match.py
 --------------THEN------------
 $ python ./Merge.py
